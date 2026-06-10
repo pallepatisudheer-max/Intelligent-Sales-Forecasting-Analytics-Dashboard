@@ -165,6 +165,10 @@ Total Records: **9994**
 
 ---
 
+## Demo link 
+
+https://intelligent-sales-forecasting-analytics.onrender.com
+
 ## 👨‍💻 Author
 
 **Sudheer**
